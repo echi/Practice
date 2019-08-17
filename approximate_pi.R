@@ -5,3 +5,5 @@ approximate_pi <- function(darts=500) {
   pi <- 4 * length(in_circle)/darts
   return(pi)
 }
+
+# Added a remote comment.
